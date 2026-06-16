@@ -5,7 +5,7 @@ def reverse_arr(arr):
     l = 0               # Left pionter
     r = len(arr)-1      # Right pointer
     while l <= r:
-        arr[l], arr[r] = arr[r], arr[l]
+        arr[l], arr[r] = arr[r], arr[l]    # Swapping
         l += 1
         r -= 1
 
