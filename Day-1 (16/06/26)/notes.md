@@ -1,4 +1,4 @@
-Explaining Time complexities with example :-
+# Explaining Time complexities with example :-
 
 O(1) :- Like accessing an element from an array.
 eg-
