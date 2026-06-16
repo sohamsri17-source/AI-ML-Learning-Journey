@@ -1,4 +1,5 @@
 # Reversing an array using two pointers technique
+# Time Complexity : O(n)
 
 def reverse_arr(arr):
     l = 0               # Left pionter
