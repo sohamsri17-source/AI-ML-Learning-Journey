@@ -1,0 +1,11 @@
+1) Why Numpy is preferred over Python Lists in ML?
+ans) NumPy arrays are significantly faster, consume far less memory, and natively support complex matrix operations.
+
+2) Difference between Element-wise Multiplication and Dot Product.
+ans) Dot product gives a scalar value while element-wise multiplication gives a whole vector.
+
+3) ML application for the given tasks.
+ans) - 
+i) Aggregate funtions are very important when dealing with an dataset. It generally tells the behaviour and repetetions in a dataset.
+ii) Element-wise multiplication and addition are very important when dealing with vectors.
+iii) Matrix operations are important when dealing with data.
