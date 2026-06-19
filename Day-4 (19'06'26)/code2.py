@@ -16,6 +16,5 @@ final_matrix = matrix2 + matrix3
 
 print("Matrix of All Ones:")
 print(matrix3)
-print("-" * 30)
 print("Final Result (Multiplied Matrix + Ones Matrix):")
 print(final_matrix)
