@@ -14,3 +14,14 @@ print(random_array > 30)
 
 print("Values greater than 30:")
 print(filtered_values)
+
+""" Output:-
+
+Original Random Array:
+[44 45 45 10 21 23 36 16 43 11]
+
+Boolean Mask (array > 30):
+[ True  True  True False False False  True False  True False]
+
+Values greater than 30:
+[44 45 45 36 43] """
