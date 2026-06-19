@@ -22,13 +22,13 @@ print(f"Sum of each column (axis=0): {column_sums}")
 
 print(f"Mean of each row (axis=1): {row_means}")
 
-""" Output:-
 
-Original Random Array:
-[44 45 45 10 21 23 36 16 43 11]
+""" Output :- 
+Final Matrix: [[ 6 11 16]
+               [21 26 31]]
+               
+Global Maximum Value: 31
 
-Boolean Mask (array > 30):
-[ True  True  True False False False  True False  True False]
+Sum of each column (axis=0): [27 37 47]
 
-Values greater than 30:
-[44 45 45 36 43] """
+Mean of each row (axis=1): [11. 26.]  """
