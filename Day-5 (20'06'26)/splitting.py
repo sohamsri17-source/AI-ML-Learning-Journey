@@ -7,7 +7,7 @@ print(matrix_1)
 print("-"*30)
 print(np.vsplit(matrix_1, 2))
 
-""Output:-
+""" Output:-
  [[1 2]
  [3 4]
  [5 6]
