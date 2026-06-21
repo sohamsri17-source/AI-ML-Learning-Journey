@@ -12,5 +12,5 @@ print(f"The top student is at index {np.argmax(marks)}, with the score of {np.ma
 82.375
 83.0
 9.45961812125627
-The top student is at index 7, wit the score of 95.
+The top student is at index 7, with the score of 95.
 """
