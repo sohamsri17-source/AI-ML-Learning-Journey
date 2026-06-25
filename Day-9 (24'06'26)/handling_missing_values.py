@@ -23,3 +23,18 @@ df['Science_Score'] = df['Science_Score'].fillna(df['Science_Score'].mean())
 
 print("\nCleaned DataFrame:")
 print(df)
+
+"""Output :-
+Summary of missing values per column:
+Name             1
+Math_Score       1
+Science_Score    1
+dtype: int64
+
+Cleaned DataFrame:
+    Name  Math_Score  Science_Score
+0  Alice        78.0      82.000000
+1    Bob        74.0      79.000000
+3  David        64.0      83.666667
+4    Eva        80.0      90.000000
+"""
