@@ -21,3 +21,17 @@ high_achievers = df[(df['Math_Score'] > 85) & (df['Science_Score'] > 85)]
 
 print("High Achievers (Scored > 85 in both subjects):")
 print(high_achievers)
+
+""" 
+Output :-
+Cleaned DataFrame:
+    Name  Math_Score  Science_Score
+0  Alice        78.0      82.000000
+1    Bob        74.0      79.000000
+3  David        64.0      83.666667
+4    Eva        80.0      90.000000
+High Achievers (Scored > 85 in both subjects):
+Empty DataFrame
+Columns: [Name, Math_Score, Science_Score]
+Index: []
+"""
